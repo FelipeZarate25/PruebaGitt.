@@ -9,4 +9,3 @@ fatal: Autenticación falló para 'https://github.com/FelipeZarate25/introgit220
 
 remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
 
-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
